@@ -13,6 +13,8 @@ The goal was to create a simple game in a week that used only one button. Hosted
 * Link to Gameplay --> [Youtube](https://www.youtube.com/watch?v=_Ubelo-NEu4&feature=youtu.be)
 * Link to Game "Art" --> [Imgur](https://imgur.com/a/yVh3m)
 
-## Screenshots and Video
+## Video Link
 [![Gameplay](https://img.youtube.com/vi/_Ubelo-NEu4/0.jpg)](https://www.youtube.com/watch?v=_Ubelo-NEu4)
+
+## Screenshot
 ![Screenshot](http://barrettotte.com/images/GameDev/Master_Telegrapher/Master_Telegrapher_01.jpg)
