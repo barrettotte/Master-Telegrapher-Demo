@@ -1,8 +1,11 @@
+# Master Telegrapher
+
 ## Description
-Master Telegrapher is a simple 3D low poly telegraph operator simulation game that uses only one button,
-the spacebar. This is the demo I am entering into a one button button game jam. 
-Made with Unity and Blender.
-This is one of the only game development projects I have finished.
+* Master Telegrapher is a simple 3D low poly telegraph operator simulation game that uses only one button,
+the spacebar. 
+* This is the demo I am entering into a one button button game jam. 
+* Made with Unity and Blender.
+* This is one of the only game development projects I have finished.
 
 ## One Button Game Jam 2016
 The goal was to create a simple game in a week that used only one button. Hosted on [Itch.io](https://itch.io/jam/one-button-to-rule-all-jam)
